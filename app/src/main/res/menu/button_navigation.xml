@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_schedule"
+        android:icon="@drawable/ic_android_white_24dp"
+        android:title="@string/strings_s" />
+    <item
+        android:id="@+id/menu_account"
+        android:icon="@drawable/ic_android_white_24dp"
+        android:title="@string/string_a" />
+    <item
+        android:id="@+id/menu_course"
+        android:icon="@drawable/ic_android_white_24dp"
+        android:title="@string/string_c" />
+</menu>
